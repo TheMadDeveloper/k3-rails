@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = K3::VERSION
   spec.authors       = ["TheMadDeveloper"]
   spec.email         = ["w@keithkerlan.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{For manage k3 library javascript plugins/widgets}
+  spec.summary       = %q{For manage k3 library javascript plugins/widgets}
   spec.homepage      = ""
   spec.license       = "MIT"
 

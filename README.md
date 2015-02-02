@@ -1,6 +1,6 @@
-# K3
+# k3-rails
 
-TODO: Write a gem description
+A test gem for installing javascript plugins/widgets from a personal "k3" library.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ rake k3:install
 
 ## Contributing
 
