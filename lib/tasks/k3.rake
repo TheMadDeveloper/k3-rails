@@ -4,7 +4,7 @@ namespace :k3 do
   desc 'Install k3 javascript plugins/widgets'
   task :install do
     asset_host = 'raw.githubusercontent.com'
-    asset_path = '/TheMadDeveloper/jquery-boilerplate/master/src/jquery.noise.js'
+    asset_path = '/TheMadDeveloper/jquery-boilerplate/master/dist/jquery.noise.js'
 
     # based on http://snippets.dzone.com/posts/show/2469
     # http://farm1.static.flickr.com/92/218926700_ecedc5fef7_o.jpg
